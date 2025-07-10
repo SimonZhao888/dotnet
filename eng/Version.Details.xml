@@ -14,5 +14,10 @@
       <Uri>https://github.com/dotnet/arcade-services</Uri>
       <Sha>afa79da3b68fd0fe48d90ea7fcbffbf7789c6d7f</Sha>
     </Dependency>
+    <!-- From 1xx build -->
+    <Dependency Name="Microsoft.NET.Sdk" Version="10.0.100-preview.7.25359.101">
+      <Uri>https://github.com/dotnet/dotnet</Uri>
+      <Sha>afa79da3b68fd0fe48d90ea7fcbffbf7789c6d7f</Sha>
+    </Dependency>
   </ToolsetDependencies>
 </Dependencies>
